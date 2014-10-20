@@ -58,6 +58,11 @@ h1,h2, h3 {
 	padding-bottom: 5px;
 }
 
+h2.subtitle {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
 h1 {
 	font-size: 30px;
 }
@@ -157,6 +162,19 @@ p img {
   vertical-align: middle;
   text-align: center;
   border: none;
+}
+
+table img {
+  display: inline;
+  padding: 0;
+  margin: 0;
+  vertical-align: middle;
+  text-align: center;
+  width: 100px;
+}
+
+tr {
+  text-align: top;
 }
 
 /* Code blocks */
@@ -340,7 +358,7 @@ footer {
   header, section, footer {
     float:none;
     position:static;
-    width:auto;
+    width:100%;
   }
 
 	footer {

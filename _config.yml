@@ -1,0 +1,16 @@
+# Where things are
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+data_source: ./_data
+collections: null
+
+url: http://doubleelectronics.kiranbot.com
+permalink: pretty
+highlighter: pygments
+markdown: redcarpet
+exclude: ['Gemfile', 'CNAME', 'README.markdown']
+
+redcarpet:
+  extensions: ["autolink", "tables", "no_intra_emphasis"]
