@@ -10,8 +10,8 @@ Here, you can learn about:
 
 - [what tools are available in our space](/tools)
 - [tutorials for projects you can build with what's here](/tutorials)
-- [where to obtain other materials](/materials)
-- [where to look for inspiration and ideas.](/other-resources)
+- where to obtain other materials
+- where to look for inspiration and ideas
 
 Happy tinkering!
 

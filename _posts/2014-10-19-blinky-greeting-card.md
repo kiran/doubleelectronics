@@ -2,6 +2,8 @@
 title: Blinky Greeting Cards
 layout: "post"
 permalink: blinky-greeting-cards
+category: projects
+tags: [paper circuits, tutorial]
 ---
 
 ## Before you begin

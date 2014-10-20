@@ -2,6 +2,8 @@
 title: Electronic Textiles Handout
 layout: "post"
 permalink: sewable-circuits
+category: handouts
+tags: [wearables, tutorial]
 ---
 
 ## Materials and Resources:

@@ -2,6 +2,8 @@
 title: Paper Circuits Handout
 layout: "post"
 permalink: paper-circuits
+category: handouts
+tags: [paper circuits, tutorial]
 ---
 
 This was converted from a [Google Doc](http://tinyurl.com/kx6fxu3) put together by Natalie Freed.
